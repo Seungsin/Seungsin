@@ -16,7 +16,7 @@ Student of KNU CSE💻
 <p/>
 <h3 align="center">🌈 It's me! 🌈 </h3>
 <p align="center">
-<a href="https://sinny-life.tistory.com/"><img alt="Blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
+<!-- <a href="https://sinny-life.tistory.com/"><img alt="Blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>&nbsp;&nbsp;&nbsp; -->
 </p>
 <!--
 **Seungsin/Seungsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
